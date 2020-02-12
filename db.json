@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "fingerprint": "190528", "messages": [] },
+    { "id": 2, "fingerprint": "169417", "messages": [] },
+    { "id": 3, "fingerprint": "192566", "messages": [] }
+  ],
+  "messages": []
+}
